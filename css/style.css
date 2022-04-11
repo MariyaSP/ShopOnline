@@ -1,0 +1,18 @@
+@import url(global.css);
+@import url(care.css);
+@import url(promo_art.css);
+@import url(header.css);
+@import url(bread.css);
+
+
+
+.header-promo {
+    font-family: "lato-bold";
+}
+
+
+
+#advertisement img {
+    width: 530px;
+    height: 330px;
+}
