@@ -141,6 +141,7 @@ fieldset{
     height: 33px;
     margin-right: 12px;
     transition: border 1s;
+    cursor: pointer;
 }
 
 .booking__form-list-items input[type=radio]{
@@ -148,6 +149,8 @@ fieldset{
     border-radius: 50%;
 
 }
+
+
 
 .booking__form-list-items input[type=checkbox]{
     outline: none;

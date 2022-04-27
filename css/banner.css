@@ -114,6 +114,7 @@
 }
 
 .banner__promo-down{
+    cursor: pointer;
     background: url("../img/icons/down.png") no-repeat center;
     width: 99px;
     height: 99px;
@@ -291,9 +292,7 @@
 
 @media(max-width:420px) {
 
-    .banner{
-        
-    }
+
     .banner__promo{
         max-width: 139px;
         gap: 20px;
